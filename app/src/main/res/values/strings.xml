@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ConnectionApplication</string>
+    <string name="connection_application_text">Заявка на подключение</string>
+    <string name="choose_house">Выберите дом</string>
+    <string name="choose_street">Выберите улицу</string>
+    <string name="send">Отправить</string>
+    <string name="corpus">Корпус</string>
+    <string name="apartment">Квартира</string>
+    <string name="house">Дом</string>
+    <string name="error">Ошибка: $1%s</string>
+</resources>
